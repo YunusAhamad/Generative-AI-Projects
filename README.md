@@ -1,5 +1,3 @@
-# Generative-AI-Projects
-GEN-AI-PROJECTS-1
 GenAI Text Generation Project Using GPT-2
 Project Overview
 This project presents a Generative Artificial Intelligence text generation system implemented using the GPT-2 transformer model. The solution generates coherent and context-aware text based on user-provided input, demonstrating the practical application of modern Natural Language Processing techniques.
